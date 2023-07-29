@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "delta-spark-385615",
+  "private_key_id": "e7b6e5eab8fcb84b61ad5690012c83ff35706b75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOXsET5zR1czKW\nk97XSqkcJzSWnHimLwFZ6e24s7UY0eVHsqOZ+X2wPCEjlgAofzJ5wjKQrfGljJR8\nSwtef6uzDQbS2nnxZ4K287HrZVIQBZQNE33Lis0t3IeY46nSnCi9dxF59i1pZVdN\nzcWzzEKsKNFY49kkugCDT0qfG/6CqXE4guYfCg1Q07+bO1Wb/6XPQhKavlsat5eV\ng9lqOC3GVJqTBrA40pnv/1r3jEkL0V6dADT2X15gz78/3sC7iLH5+W1BpNs0AfCB\n1gB60q6jg641zw/ICssModjEh55yNRWR9zxjc2V6FSJ9zFtXv4TTww+EkQo7Cju1\nMEinzDFdAgMBAAECggEACnO3nTGyUTmEqCY0nNxR7NRagD9MCASs8Zgcu2RUqX1l\n+qfkS9XcRQsClaoQ93wbuxl4FKZOrRcN5S6q1H4sXMzt2cuJbg3TS79TdUvkKF4T\n9caVMjQlOKuo7XgoX3ubv57ScoYiniotDgp8NyNDBDOsCK+/jXHjOUNQkPbqwMTL\nXmqJFxmFyvxLdaFEBl53pErXb+8nYhSMiR+ckWlc5hXYP4xLhEHiTkHAzX6tfOhh\nbxkx+pbx0+FkT3VeK5Xnzp+aI4aOADBnHbZuTdj/Hj9H/bzxgTG9uKr/ViPk5lKY\nGSJsANUuPL4iIGBaJD59RnM9hVWIggjzjzIhdtzRGQKBgQDzUXf6T2XemhrxC39H\nAkW4VHP/c0Fj+qOTLaVCrpDMBXa7Keg4V9Bwsg3DUEgivxLLDob7P5IeovIZJUlC\nZwzKY5rJiDS979ETtRqZd7zY/f/5ngFLCdsDCGrcYMvAv3lDeX7sBt6J2t1chQ3+\ndteooY2nZu/xINJZ2/GW4eUghQKBgQDZIEv0/3hOX5AboqHhUTWUL75XvIbe7aSj\nduq9mkhvbY1O7HEVmOdHIvvThcGsW3JyM4NNvqyrcS+PohmA9LUGTO7/ucUkv4DW\nd21ed9mVJojV0D7kuGIcyOhMQxeB+pOuyvnpzZ1RKuwLuzLmChmfxc6ZpOJ0grUq\neHTh3I5Q+QKBgBgZWpO9J27Lvp1fMST8UaF3I+IKLVDUszzRiYu4NHkwlVjmRqzF\n7cwrpndQzUQ7voXEE5Rw8Gz+YJIjAkWEZVzqTptlVSv2w7N6/X5zwI2RYrf7cU9Y\nU4vSWpsnLycRD9aiAvMnnwTyW3hdaUxpwuRd0+TfqiYsxQjHYv85snLtAoGAII3J\nFaif/xAw6RPPNZsZb2hhH4JyrkXvI1sXAup45cwFHcoxgk10j6PdIe+yBAeJ9zll\n/GgUN3g261AghscpxRIP22Oc/U+BH6a0TS+m/cfTSEt6wowqmao9ugFtKt3I+rIQ\nGk/rwFmxHmkoznjBMsVTnpGsKk/WndGFpL+OzvECgYEA7GM7xsajiEFrHXK9uRMz\nkeaEH8lFDD13i7Srj8EDGJEpZxSQw/REHNi/EQhbPNKAuydXnZ71kJXhcAPEhi/k\nXbsTjtrfPFplLh9Pv94hDvNLs6m/t6cVbE9ubih/+OWfiOTOZj5XVncDrb67tYXF\n8Oh6iCn88mouKJCtLq0Qor4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@delta-spark-385615.iam.gserviceaccount.com",
+  "client_id": "114263619255070964029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40delta-spark-385615.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
